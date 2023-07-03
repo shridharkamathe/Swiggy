@@ -55,9 +55,7 @@ To explore the Swiggy restaurant data analysis and access the interactive dashbo
 
 5. Customize and modify the analysis and dashboard as required for your specific use case.
 
-## Contrib
-
-uting
+## Contributing
 
 Contributions to this repository are not currently being accepted, as it is a sample repository. However, feel free to fork the repository and adapt it to your own requirements.
 
