@@ -50,6 +50,11 @@ The repository is structured as follows:
 ![send](https://github.com/shridharkamathe/Hotel-Data-Analysis/assets/124047047/2b49ed5d-6b2a-46aa-bdb0-5f65d6951139)
 
 
+## Conclusion
+
+![Image 05-07-23 at 6 21 PM](https://github.com/shridharkamathe/Hotel-Data-Analysis/assets/124047047/cad4eaa8-fc15-4b52-8a81-8be5044ced6a)
+
+
 
 
 ## Challenges Faced
