@@ -44,7 +44,11 @@ The repository is structured as follows:
 
 - **README.md**: This file, providing an overview of the repository and its contents.
 
-## Key Findings
+## Dash Board
+
+
+![send](https://github.com/shridharkamathe/Hotel-Data-Analysis/assets/124047047/2b49ed5d-6b2a-46aa-bdb0-5f65d6951139)
+
 
 
 
