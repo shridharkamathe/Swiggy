@@ -1,5 +1,8 @@
 # Swiggy Restaurant Data Analysis
 
+
+<img align="right" alt="Coding" width="400" src="https://github.com/shridharkamathe/Hotel-Data-Analysis/assets/124047047/67d373a6-af43-4e80-831d-a0d41d186f72">
+
 This repository contains an analysis of restaurant data scraped from the food delivery platform Swiggy. The analysis aims to suggest an ideal location and cuisine for a client planning to open a cloud kitchen. Additionally, the data is utilized to generate insights and create a dashboard with various metrics related to the restaurants on Swiggy.
 
 ## Dataset
