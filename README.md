@@ -44,6 +44,22 @@ The repository is structured as follows:
 
 - **README.md**: This file, providing an overview of the repository and its contents.
 
+## Key Findings
+
+
+
+## Challenges Faced
+
+During the data scraping process of Swiggy, we encountered a significant challenge in dealing with the complexity of the scraped data. Specifically, the categories of the dishes were mostly absent or incorrect, making it a daunting task to clean and organize the data effectively.
+
+To address this challenge, we devised a solution that involved leveraging keywords to categorize the dishes correctly. This approach required iterating over every row of the scraped data and examining the presence of specific keywords. By carefully analyzing the keywords associated with each dish, we were able to assign them to their respective categories accurately.
+
+This process of cleaning and categorizing the data proved to be crucial in ensuring the accuracy and usability of the final dataset. By diligently applying keyword-based categorization techniques, we were able to transform the initially disorganized data into a well-structured and comprehensive dataset.
+
+Our approach not only enabled us to overcome the hurdles posed by the absence or inaccuracy of dish categories but also enhanced the overall quality of the dataset. The cleaned data now provides a solid foundation for further analysis, modeling, and insights generation in the context of Swiggy's food offerings.
+
+For more details on the methodology and techniques employed in the data cleaning process, please refer to the accompanying code and documentation in this GitHub repository.
+
 ## Usage
 
 To explore the Swiggy restaurant data analysis and access the interactive dashboard:
