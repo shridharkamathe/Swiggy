@@ -7,7 +7,7 @@ This repository contains an analysis of restaurant data scraped from the food de
 
 ## Dataset
 
-The dataset used for this analysis is sourced from Swiggy using web scraping techniques. The following files are included in the repository:
+The dataset used for this analysis is sourced from Swiggy using web scraping techniques. The following files are included in the repository:-
 
 - `Cap Cleaning Table 2.ipynb`: Jupyter Notebook containing the data cleaning process for Table 2.
 - `Capstone Swiggy.xlsx`: Excel file containing the DashBoard and the main dataset for the project.
